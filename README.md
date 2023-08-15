@@ -16,4 +16,4 @@ Since the Apriori algorithm requires data to be in one-hot encoding format, the 
 - Creating a two-dimensional array using lists, where each list represents a transaction, ensuring they all have the same length.
 - Training the encoder and creating an array with one-hot encoding using the `TransformEncoding()` method provided by the `mlxtend` library.
 - Converting the obtained array into a dataframe.
-- Saving and exporting the resulting dataframe in CSV format for use in applying the Apriori algorithm from the `mlxtend` library.
+- Saving and exporting the resulting dataframe in CSV format for use in applying the `Apriori` algorithm from the `mlxtend` library.
